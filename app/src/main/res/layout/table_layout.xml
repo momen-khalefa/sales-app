@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="1200dp"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/doc_note"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:background="@drawable/back_g"
+        android:gravity="center"
+        android:text="اضغط هنا"
+        android:textColor="#2196F3" />
+
+    <TextView
+        android:id="@+id/doc_balance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:background="@drawable/back_g"
+        android:gravity="center"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/doc_daen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:background="@drawable/back_g"
+        android:gravity="center"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/doc_maden"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:background="@drawable/back_g"
+        android:gravity="center"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/doc_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:background="@drawable/back_g"
+        android:gravity="center"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/doc_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:background="@drawable/back_g"
+        android:gravity="center"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/doc_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:background="@drawable/back_g"
+        android:gravity="center"
+        android:text="TextView" />
+</LinearLayout>
